@@ -1,3 +1,6 @@
+
+//@author กิตติชัย รักษาวงค์ sec02 673380028-2
+
 public class Circle {
     private static double radius;
 

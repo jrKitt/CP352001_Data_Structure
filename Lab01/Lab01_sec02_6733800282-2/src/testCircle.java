@@ -1,3 +1,6 @@
+
+//@author กิตติชัย รักษาวงค์ sec02 673380028-2
+
 import java.util.Scanner;
 
 public class testCircle {
